@@ -1,2 +1,2 @@
-# Master-thesis
-Repo for master thesis
+# Master Thesis
+Repo for the master thesis
